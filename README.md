@@ -30,7 +30,7 @@ Dynamic Programming
 - [ ] [ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [ Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] [ Longest Common Subsequence -
+- [ ] [ Longest Common Subsequence ](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [ Word Break Problem](https://leetcode.com/problems/word-break/)
 - [ ] [ Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
 - [ ] [ House Robber](https://leetcode.com/problems/house-robber/)
@@ -48,9 +48,9 @@ Graph
 - [ ] [ Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [ Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [ ] [ Alien Dictionary](Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/)
-- [ ] [ Graph Valid Tree](Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/)
-- [ ] [ Number of Connected Components in an Undirected Graph](Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [ ] [ Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/)
+- [ ] [ Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/)
+- [ ] [ Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
 ---
 
@@ -59,8 +59,8 @@ Interval
 - [ ] [ Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [ Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [ ] [ Meeting Rooms](Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
-- [ ] [ Meeting Rooms II](Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
+- [ ] [ Meeting Rooms ](https://leetcode.com/problems/meeting-rooms/)
+- [ ] [ Meeting Rooms II ](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ---
 
@@ -95,7 +95,7 @@ String
 - [ ] [ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
-- [ ] [ Encode and Decode Strings](Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
+- [ ] [ Encode and Decode Strings ](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ---
 
@@ -112,7 +112,7 @@ Tree
 - [ ] [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [ Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [ Implement Trie](Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [ ] [ Implement Trie ](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [ Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ] [ Word Search II](https://leetcode.com/problems/word-search-ii/)
 
@@ -126,4 +126,4 @@ Heap
 
 # Credits
 
-Taken from :](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+Taken from : [Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
